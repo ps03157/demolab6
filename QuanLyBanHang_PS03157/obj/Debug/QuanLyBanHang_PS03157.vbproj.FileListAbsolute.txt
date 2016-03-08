@@ -1,0 +1,17 @@
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\bin\Debug\QuanLyBanHang_PS03157.exe.config
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.vbprojResolveAssemblyReference.cache
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.FrmDangNhap.resources
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.Resources.resources
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.vbproj.GenerateResource.Cache
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.xml
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.FrmMain.resources
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\bin\Debug\QuanLyBanHang_PS03157.exe
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\bin\Debug\QuanLyBanHang_PS03157.pdb
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\bin\Debug\QuanLyBanHang_PS03157.xml
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.exe
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.pdb
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.FrmCapNhatKH.resources
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.FrmCapNhatSP.resources
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.FrmXemKH.resources
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.FrmGioiThieu.resources
+E:\Học tập\INF205\asm2\QuanLyBanHang_PS03157\QuanLyBanHang_PS03157\obj\Debug\QuanLyBanHang_PS03157.FrmXemSP.resources
